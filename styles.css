@@ -30,27 +30,27 @@ body {
     /*background-color: red;*/
 }
 .cuerpo{
-    width: 1320px;
-    /*background-color: chartreuse;*/
+    width: 1330px;
+   /* background-color: chartreuse;*/
     height: 490px;
     margin: 0px auto;
 }
 
 #cuerpo1{
     /*background-color: aqua;*/
-    float: left;
     height: 490px;
     width: 620px;
     margin-bottom: 0px;
     margin: 0 auto;
+    margin-left: 0px;
 }
 #cuerpo2{
     /*background-color: rgb(0, 0, 0);*/
-    float: left;
     height: 490px;
     width: 620px;
     margin-bottom: 0px;
     margin: 0 auto;
+    margin-left: 0px;
 
 }
 
