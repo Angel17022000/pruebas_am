@@ -5,12 +5,15 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    text-decoration: none;
+    overflow-x: hidden;
 }
 #topBar {
     /*background-color: blue;*/
     width: 100%;
     height: 40px;
     margin-top: 0px;
+    text-decoration: none;
 }
 .enlaceTopBar{
     margin: 5px 25px 0px 55px;
@@ -48,4 +51,5 @@ body {
     /*background-color: green;*/
     margin-top: 240px;
     margin-left: 75px;
+    margin-bottom: 10px;
 }
