@@ -1,0 +1,55 @@
+body {
+    /*background-color: #79009d;*/
+    background: url("assetFORM/fondo_form.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-decoration: none;
+    overflow-x: hidden;
+}
+#topBar {
+    /*background-color: blue;*/
+    width: 100%;
+    height: 40px;
+    margin-top: 0px;
+    text-decoration: none;
+}
+.enlaceTopBar{
+    margin: 5px 25px 0px 55px;
+    text-decoration:none;
+   /* color: #FE77E2; */
+    color: #e8c2eb;
+    float: right;
+    /*font-size: 16px;*/
+}
+
+#seccionFORM{
+    /*background-color: blue;*/
+    height: 500px;
+    width: 490px;
+    float: right;
+}
+#textFORM{
+   /* background-color: aqua;*/
+    height: 130px;
+    width: 100%;
+}
+#cajaFORM{
+   /* background-color: chartreuse;*/
+    background-image: url("assetFORM/cajaFORM2.png");
+    width: 400px; height: 436px; margin-left: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: -45px;
+    background-position: center bottom;
+    position: fixed;
+}
+#formulario{
+    width:250px;
+    height: 150px;
+    /*background-color: green;*/
+    margin-top: 240px;
+    margin-left: 75px;
+    margin-bottom: 10px;
+}
